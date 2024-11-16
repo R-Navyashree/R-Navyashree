@@ -1,8 +1,10 @@
 ## Hi there 👋
 
-## 💫About Me :
+💫About Me :
 I'm a Engineering Student 
+
 Currently enchancing My skills in Web Development.
+
 All my projects are Available https://github.com/R-Navyashree
 
 ## 💻Tech Stack

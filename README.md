@@ -1,6 +1,6 @@
 <h1 >Hi 👋, I'm Navyashree </h1>
 I'm a Engineering Student.<br>
-Currently enchancing My skills in Web Development.<br>
+Currently enchancing My skills in MERN Stack.<br>
 All my projects are Available https://github.com/R-Navyashree.<br><br>
 
 <p align="left">
